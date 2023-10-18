@@ -1,11 +1,14 @@
 # SkimLit
 This project aims to extract PubMed abstracts's different parts such as methods and results.
 It is based on 2 articles:
+
 **PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts**
 
 **Neural Networks for Joint Sentence Classification in Medical Paper Abstracts**
+
 The baseline model is developed using a TFIDF vectorizer and multinimial naive bayse model.
 The other experiments are as followed:
+
 **Conv1D model**
 
 **data pipeline for deep models**
